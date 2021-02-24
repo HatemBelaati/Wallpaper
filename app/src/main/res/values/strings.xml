@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cars Wallpaper </string>
+
+
+        <!--       TEST          -->
+    <string name="app_id_admob">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="medium_rectangle_admob">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_admob">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_admob">ca-app-pub-3940256099942544/1033173712</string>
+
+
+
+
+
+</resources>
